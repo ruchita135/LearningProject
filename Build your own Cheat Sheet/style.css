@@ -1,0 +1,79 @@
+*{
+	margin: 10px;
+	padding= 0px;
+}
+
+body{
+	background-image: url(background.jpg);
+}
+
+
+h1{
+	font-family: courier;
+	font-size: 40px;
+	background-color: teal;
+	height: 70px;
+	text-align: center;
+	padding-top: 25px;	 
+}
+
+
+h2,h3{
+	font-family: monospace;
+	font-size: 30px;
+	color: DarkCyan; 
+
+}
+
+
+p{
+	text-align: justify;
+	font-size: 20px;
+}
+
+
+a{
+	color: teal;
+}
+
+
+img{
+	border: solid;
+	color: grey;
+	height: 220px;
+	width: 450px;
+	margin-top: 20px;
+}
+
+
+figcaption{
+	font-style: italic;
+	color: grey;
+}
+
+
+table,th,td {
+	border: 1.5px solid teal;
+	border-collapse: collapse;
+	height: 20px;
+	margin: 30px;	
+	padding: 10px;
+	font-size: 20px;
+}
+
+
+h6{
+	font-style: italic;
+	color: grey;
+	font-size: 12px;
+}
+
+
+th{
+	background-color: Cadetblue;
+	opacity: 0.8;
+}
+
+li{
+	font-size: 20px;
+}
