@@ -1,62 +1,54 @@
 *{
     margin: 1px;
     padding: 0;
-    border: red;
 }
 
-body{
-    text-align: left;
+h1, 
+h2, 
+h3, 
+p {
+  font-family: "Helvetica", sans-serif;
 }
+
+
 h1{
-    font-family: Helvetica;
+    background-image: url("../images/pattern.jpeg");
     font-size: 100px;
-    font-weight: bold;
     color: khaki;
     text-align: center;
-    background-image: url("pattern.jpg");
     background-size: auto;
-    padding: 40px;
-    opacity: 100px;
-}   
+    padding: 20px;
+    margin: 40px 0;
+} 
 
-header{
-    background-size: auto;
+img{
+    padding: 30px 0 20px 0 ;
 }
 
+p{
+    padding-top: 10px;
+}
 
-h2{
-    font-family: Helvetica;
+.item h2{
     font-size: 32px;
-    font-weight: bold;
     color: white;
+    margin-top: 30px;
 }
 
 
-strong{
-    font-family: Helvetica;
+.price{
     font-weight: bold;
     color: blue;
 }
 
-figure{
-    padding: 20px 0 10px 0;
-}
-
-figcaption{
-    padding-top: 10px;
-    font-weight: bold;
-    font-size: 20px;
-}
-
-.brushes{
+#brush{
     background-color:mediumspringgreen;
-
 }
 
-.frames{
+#frame{
     background-color: lightcoral;
 }
 
-.paint{
+#paint{
     background-color: skyblue;
 }
