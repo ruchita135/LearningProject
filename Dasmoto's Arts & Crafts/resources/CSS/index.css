@@ -1,0 +1,62 @@
+*{
+    margin: 1px;
+    padding: 0;
+    border: red;
+}
+
+body{
+    text-align: left;
+}
+h1{
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("pattern.jpg");
+    background-size: auto;
+    padding: 40px;
+    opacity: 100px;
+}   
+
+header{
+    background-size: auto;
+}
+
+
+h2{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+
+strong{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+figure{
+    padding: 20px 0 10px 0;
+}
+
+figcaption{
+    padding-top: 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.brushes{
+    background-color:mediumspringgreen;
+
+}
+
+.frames{
+    background-color: lightcoral;
+}
+
+.paint{
+    background-color: skyblue;
+}
